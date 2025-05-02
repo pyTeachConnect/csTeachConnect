@@ -1,0 +1,17 @@
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\bin\Debug\net6.0-windows\csTeachConnect.exe
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\bin\Debug\net6.0-windows\csTeachConnect.deps.json
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\bin\Debug\net6.0-windows\csTeachConnect.runtimeconfig.json
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\bin\Debug\net6.0-windows\csTeachConnect.dll
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\bin\Debug\net6.0-windows\csTeachConnect.pdb
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.csproj.AssemblyReference.cache
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.AssemblyInfoInputs.cache
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.AssemblyInfo.cs
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.csproj.CoreCompileInputs.cache
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachC.EE9D271F.Up2Date
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.dll
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\refint\csTeachConnect.dll
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.pdb
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\csTeachConnect.genruntimeconfig.cache
+C:\Users\Wakana\RiderProjects\csTeachConnect\csTeachConnect\obj\Debug\net6.0-windows\ref\csTeachConnect.dll
